@@ -28,7 +28,7 @@ public class Common_Methods {
 		}
 		return actual_values;
 	}
-	//radio
+	//radi
 	public void selectradiobutton(List<WebElement> wb, String valuetobeselected)
 	{
 		for(WebElement el: wb) {
